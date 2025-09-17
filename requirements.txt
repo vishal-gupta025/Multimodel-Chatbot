@@ -1,0 +1,21 @@
+# Core
+streamlit
+openai
+langchain
+langchain-community
+langchain-openai
+
+# Audio
+speechrecognition
+streamlit-mic-recorder
+pyttsx3
+
+# Text-to-Speech
+gtts
+playsound==1.2.2
+
+# Image handling
+pillow
+
+# Utils
+tqdm
